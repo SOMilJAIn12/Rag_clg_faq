@@ -1,0 +1,972 @@
+[
+  {
+    "question": "What is the minimum attendance required to appear in examinations?",
+    "answer": "Students generally need to maintain the minimum attendance percentage prescribed by their university or institution. Check the official attendance policy for the exact requirement.",
+    "category": "Attendance"
+  },
+  {
+    "question": "What happens if my attendance is below the required percentage?",
+    "answer": "Students with attendance below the prescribed limit may face restrictions on appearing in examinations, subject to the institution's attendance and condonation rules.",
+    "category": "Attendance"
+  },
+  {
+    "question": "Can attendance shortage be condoned?",
+    "answer": "Attendance shortage may be condoned in eligible cases according to the institution's rules. The permitted shortage and approval process should be checked in the official regulations.",
+    "category": "Attendance"
+  },
+  {
+    "question": "How can I check my attendance?",
+    "answer": "Attendance is usually available through the college or university student portal, ERP, department records, or the concerned faculty member.",
+    "category": "Attendance"
+  },
+  {
+    "question": "When are semester examinations conducted?",
+    "answer": "Semester examinations are conducted according to the academic calendar released by the university or institution.",
+    "category": "Examination"
+  },
+  {
+    "question": "Where can I find the examination date sheet?",
+    "answer": "The examination date sheet is normally published on the official university website, student portal, or examination department notice board.",
+    "category": "Examination"
+  },
+  {
+    "question": "How do I fill the examination form?",
+    "answer": "Students generally fill the examination form through the university or college student portal and complete any required fee payment before the deadline.",
+    "category": "Examination"
+  },
+  {
+    "question": "What happens if I miss the examination form deadline?",
+    "answer": "Missing the deadline may result in late fees or other restrictions. Students should contact the examination department as soon as possible.",
+    "category": "Examination"
+  },
+  {
+    "question": "How can I get my admit card?",
+    "answer": "Admit cards are generally downloaded from the student portal or obtained through the college after examination-form and eligibility requirements are completed.",
+    "category": "Examination"
+  },
+  {
+    "question": "What should I do if there is an error on my admit card?",
+    "answer": "Contact the examination department or college administration immediately and request correction before the examination.",
+    "category": "Examination"
+  },
+  {
+    "question": "How are semester results published?",
+    "answer": "Results are generally published on the official university result portal or student portal after evaluation is completed.",
+    "category": "Results"
+  },
+  {
+    "question": "How is SGPA calculated?",
+    "answer": "SGPA is generally calculated using the credit-weighted grade points earned in all subjects of a semester. The exact grading formula depends on the university.",
+    "category": "Results"
+  },
+  {
+    "question": "How is CGPA calculated?",
+    "answer": "CGPA is generally calculated using the credit-weighted grade points across completed semesters, according to the university's grading regulations.",
+    "category": "Results"
+  },
+  {
+    "question": "What should I do if I find an error in my result?",
+    "answer": "Contact the examination department and follow the university's procedure for result verification, revaluation, or correction.",
+    "category": "Results"
+  },
+  {
+    "question": "Can I apply for revaluation of my answer sheet?",
+    "answer": "Many universities provide a revaluation or scrutiny process within a specified period after results are announced. Check the official notification for eligibility and deadlines.",
+    "category": "Results"
+  },
+  {
+    "question": "What is the procedure for paying semester fees?",
+    "answer": "Semester fees are generally paid through the institution's online student portal or designated payment method before the notified deadline.",
+    "category": "Fees"
+  },
+  {
+    "question": "What happens if I pay my fees late?",
+    "answer": "Late payment may attract a penalty or other restrictions depending on the institution's fee policy.",
+    "category": "Fees"
+  },
+  {
+    "question": "Can I get a fee receipt after payment?",
+    "answer": "A fee receipt is generally available for download from the student portal after successful payment. If it is not available, contact the accounts department.",
+    "category": "Fees"
+  },
+  {
+    "question": "How can I apply for a scholarship?",
+    "answer": "Scholarship applications are usually submitted through the relevant government, university, or institution scholarship portal along with the required documents.",
+    "category": "Scholarships"
+  },
+  {
+    "question": "Where can I find the academic calendar?",
+    "answer": "The academic calendar is normally available on the official university or college website and may also be published on the student portal.",
+    "category": "Academic"
+  },
+  {
+    "question": "How can I change my elective subject?",
+    "answer": "Elective changes are subject to institutional rules, available seats, and the permitted change window. Contact the department or academic office for the procedure.",
+    "category": "Academic"
+  },
+  {
+    "question": "How do I contact my department office?",
+    "answer": "Students can contact their department office through the official college contact details, student portal, or departmental notice board.",
+    "category": "Administration"
+  },
+  {
+    "question": "How can I get a bonafide certificate?",
+    "answer": "A bonafide certificate is generally requested through the student portal or college administration office. The exact process depends on the institution.",
+    "category": "Certificates"
+  },
+  {
+    "question": "How can I get a character certificate?",
+    "answer": "Students can usually request a character certificate from the college administration after completing the required application process.",
+    "category": "Certificates"
+  },
+  {
+    "question": "How can I request a migration certificate?",
+    "answer": "Migration certificate requests are generally submitted through the university or college according to the prescribed application procedure.",
+    "category": "Certificates"
+  },
+  {
+    "question": "How can I get a duplicate ID card?",
+    "answer": "Report the lost ID card to the appropriate college office and follow the process for issuing a duplicate ID card, which may involve a fee.",
+    "category": "Student Services"
+  },
+  {
+    "question": "How do I access the college library?",
+    "answer": "Students can access the library using their valid student identification and must follow the library's membership, borrowing, and return rules.",
+    "category": "Library"
+  },
+  {
+    "question": "How many books can I issue from the library?",
+    "answer": "The number of books and borrowing period depend on the institution's library rules and the student's category.",
+    "category": "Library"
+  },
+  {
+    "question": "What happens if I return a library book late?",
+    "answer": "Late returns may result in a fine or temporary borrowing restrictions according to the library policy.",
+    "category": "Library"
+  },
+  {
+    "question": "How can I reset my student portal password?",
+    "answer": "Use the password-reset option on the student portal if available. If that does not work, contact the college IT or administration help desk.",
+    "category": "IT Support"
+  },
+  {
+    "question": "What should I do if my student portal is not working?",
+    "answer": "Check your internet connection and try again. If the issue continues, contact the institution's IT help desk with your student details and a description of the problem.",
+    "category": "IT Support"
+  },
+  {
+    "question": "How can I apply for hostel accommodation?",
+    "answer": "Hostel applications are generally submitted through the college hostel portal or administration office during the notified application period.",
+    "category": "Hostel"
+  },
+  {
+    "question": "What are the hostel rules?",
+    "answer": "Hostel rules commonly cover attendance, entry and exit timings, room allocation, discipline, visitors, and maintenance. Students should follow the official hostel handbook.",
+    "category": "Hostel"
+  },
+  {
+    "question": "How can I report a hostel maintenance issue?",
+    "answer": "Report maintenance problems through the hostel complaint system, warden, caretaker, or designated administration office.",
+    "category": "Hostel"
+  },
+  {
+    "question": "How can I register for a college club?",
+    "answer": "Students can usually join clubs during recruitment or registration drives announced by the student affairs office or individual clubs.",
+    "category": "Clubs"
+  },
+  {
+    "question": "How can I participate in college events?",
+    "answer": "Participation details are usually announced through official notices, student groups, club pages, or the student portal.",
+    "category": "Clubs"
+  },
+  {
+    "question": "Where can I find placement opportunities?",
+    "answer": "Placement opportunities are generally shared by the training and placement cell through the student portal, official notices, email, or placement groups.",
+    "category": "Placements"
+  },
+  {
+    "question": "What documents are required for placement registration?",
+    "answer": "Typical documents may include a resume, academic records, identification, and other documents requested by the placement cell or recruiting company.",
+    "category": "Placements"
+  },
+  {
+    "question": "Can students apply for internships through the college placement cell?",
+    "answer": "If the institution provides internship support, eligible opportunities are usually circulated through the training and placement cell or department.",
+    "category": "Internships"
+  },
+  {
+    "question": "Who should I contact for a timetable issue?",
+    "answer": "Contact your department office, academic coordinator, or the faculty member responsible for timetable management.",
+    "category": "Timetable"
+  },
+  {
+    "question": "Where can I find my class timetable?",
+    "answer": "The timetable is generally published through the student portal, department notice board, or official college communication channels.",
+    "category": "Timetable"
+  },
+  {
+    "question": "What should I do if two classes overlap in my timetable?",
+    "answer": "Report the timetable conflict to your department or academic coordinator so that it can be reviewed and corrected if necessary.",
+    "category": "Timetable"
+  },
+  {
+    "question": "How can I apply for leave?",
+    "answer": "Leave is generally requested through the prescribed college process, such as a student portal, leave form, or approval from the concerned faculty member.",
+    "category": "Attendance"
+  },
+  {
+    "question": "Who should I contact for academic grievances?",
+    "answer": "Academic grievances should normally be raised with the concerned faculty member, department coordinator, academic office, or designated grievance committee.",
+    "category": "Grievances"
+  },
+  {
+    "question": "How can I report a technical issue with an online class?",
+    "answer": "Contact the college IT support team or the concerned faculty member and provide details such as the course, platform, error message, and time of the issue.",
+    "category": "IT Support"
+  },
+  {
+    "question": "Can I update my personal details in the student portal?",
+    "answer": "Some personal details can be updated through the portal, while sensitive academic or identity information may require approval from the administration office.",
+    "category": "Administration"
+  },
+  {
+    "question": "How can I update my mobile number or email address?",
+    "answer": "Use the profile-update facility in the student portal if available. Otherwise, submit a request to the administration or student services office.",
+    "category": "Administration"
+  },
+  {
+    "question": "What should I do if I lose an important college document?",
+    "answer": "Report the loss to the relevant college office and ask about the process for obtaining a duplicate or replacement document.",
+    "category": "Student Services"
+  },
+  {
+    "question": "Where can I find official college notices?",
+    "answer": "Official notices are generally available on the university or college website, student portal, notice board, and official communication channels.",
+    "category": "General"
+  },
+  {
+    "question": "How do I know whether information from the FAQ is official?",
+    "answer": "The FAQ should be populated from official university or college regulations, notices, handbooks, and verified administrative information. Important decisions should be confirmed against the latest official notice.",
+    "category": "General"
+  },
+  {
+    "question": "What should I do if my question is not answered by the FAQ?",
+    "answer": "The RAG assistant should say that the information was not found in its knowledge base and direct the student to the appropriate college department rather than inventing an answer.",
+    "category": "General"
+  },
+  {
+    "question": "What is the minimum attendance required for each subject?",
+    "answer": "The required attendance for each subject depends on the university's academic regulations. Students should check the latest official attendance policy.",
+    "category": "Attendance"
+  },
+  {
+    "question": "Is attendance calculated separately for every subject?",
+    "answer": "Many institutions track attendance separately by subject, so students should check the attendance record for each course.",
+    "category": "Attendance"
+  },
+  {
+    "question": "Do practical classes count toward attendance?",
+    "answer": "Practical or laboratory attendance may be counted separately or together with theory attendance depending on institutional rules.",
+    "category": "Attendance"
+  },
+  {
+    "question": "Are tutorials included in attendance?",
+    "answer": "Tutorial attendance may be included in the course attendance calculation according to the institution's academic policy.",
+    "category": "Attendance"
+  },
+  {
+    "question": "Can medical reasons be considered for attendance shortage?",
+    "answer": "Some institutions allow attendance condonation or consideration of approved medical circumstances subject to documentary proof and applicable rules.",
+    "category": "Attendance"
+  },
+  {
+    "question": "Where should I submit medical documents for attendance condonation?",
+    "answer": "Medical documents should be submitted to the department, academic office, or other authority specified in the official attendance procedure.",
+    "category": "Attendance"
+  },
+  {
+    "question": "Can attendance be corrected if it is marked incorrectly?",
+    "answer": "If attendance has been recorded incorrectly, contact the concerned faculty member or department with the relevant details as soon as possible.",
+    "category": "Attendance"
+  },
+  {
+    "question": "How often should I check my attendance?",
+    "answer": "Students should check their attendance regularly so that discrepancies or shortages can be addressed before deadlines.",
+    "category": "Attendance"
+  },
+  {
+    "question": "Does attendance reset every semester?",
+    "answer": "Attendance is normally calculated for the relevant academic term or semester according to institutional rules.",
+    "category": "Attendance"
+  },
+  {
+    "question": "Can I attend another section to compensate for missed attendance?",
+    "answer": "Attending another section usually requires prior approval and does not automatically transfer attendance unless the institution permits it.",
+    "category": "Attendance"
+  },
+  {
+    "question": "When does the semester start?",
+    "answer": "The semester start date is announced in the official academic calendar.",
+    "category": "Academic"
+  },
+  {
+    "question": "When does the semester end?",
+    "answer": "The semester end date is specified in the official academic calendar and may vary by program and academic year.",
+    "category": "Academic"
+  },
+  {
+    "question": "Where can I find the academic regulations?",
+    "answer": "Academic regulations are generally available on the official university website, student portal, or academic office.",
+    "category": "Academic"
+  },
+  {
+    "question": "What is a credit in a course?",
+    "answer": "A credit represents the academic workload assigned to a course according to the university's curriculum structure.",
+    "category": "Academic"
+  },
+  {
+    "question": "How many credits are required to complete a semester?",
+    "answer": "The required credits depend on the program curriculum and semester structure.",
+    "category": "Academic"
+  },
+  {
+    "question": "What happens if I fail a subject?",
+    "answer": "A failed subject normally has to be cleared through the university's prescribed supplementary, repeat, or re-examination process.",
+    "category": "Academic"
+  },
+  {
+    "question": "What is a backlog subject?",
+    "answer": "A backlog is a course requirement that has not yet been successfully cleared and must be completed according to university rules.",
+    "category": "Academic"
+  },
+  {
+    "question": "Can I carry a backlog into the next semester?",
+    "answer": "Whether a backlog can be carried forward depends on the academic progression rules of the university.",
+    "category": "Academic"
+  },
+  {
+    "question": "What is a supplementary examination?",
+    "answer": "A supplementary examination is an additional examination opportunity offered under specified university rules to clear eligible failed courses.",
+    "category": "Examination"
+  },
+  {
+    "question": "When are supplementary examinations held?",
+    "answer": "Supplementary examinations are conducted according to the schedule announced by the examination authority.",
+    "category": "Examination"
+  },
+  {
+    "question": "What documents are needed for an examination form?",
+    "answer": "Required documents vary, but students may need enrollment details, identification, photographs, and other information requested by the examination portal.",
+    "category": "Examination"
+  },
+  {
+    "question": "Can I edit my examination form after submission?",
+    "answer": "Corrections may be possible only during an officially permitted correction period. Students should follow the examination authority's instructions.",
+    "category": "Examination"
+  },
+  {
+    "question": "What if my examination fee payment fails?",
+    "answer": "Check the payment status before making another payment. If the amount was deducted but the form is not updated, contact the examination or payment support team.",
+    "category": "Examination"
+  },
+  {
+    "question": "Can I download an old admit card?",
+    "answer": "Availability of old admit cards depends on the university portal. If unavailable, contact the examination department for records.",
+    "category": "Examination"
+  },
+  {
+    "question": "What should I carry to the examination hall?",
+    "answer": "Students should carry the valid admit card and permitted identification and stationery according to the examination instructions.",
+    "category": "Examination"
+  },
+  {
+    "question": "Can electronic devices be taken into the examination hall?",
+    "answer": "Electronic devices are generally restricted unless the official examination instructions specifically permit them.",
+    "category": "Examination"
+  },
+  {
+    "question": "What happens if I reach the examination hall late?",
+    "answer": "Late entry is governed by examination rules. Students should follow the instructions printed on the admit card or issued by the examination authority.",
+    "category": "Examination"
+  },
+  {
+    "question": "How can I apply for a re-examination?",
+    "answer": "Eligible students can apply through the university's prescribed examination or supplementary examination process.",
+    "category": "Examination"
+  },
+  {
+    "question": "How can I check my marks?",
+    "answer": "Marks and grades are generally available through the official result portal or student information system.",
+    "category": "Results"
+  },
+  {
+    "question": "What is a grade point?",
+    "answer": "A grade point is the numerical value assigned to a letter grade under the university's grading system.",
+    "category": "Results"
+  },
+  {
+    "question": "What is SGPA?",
+    "answer": "SGPA is the Semester Grade Point Average and represents performance across courses in a particular semester using the applicable credit-weighted grading system.",
+    "category": "Results"
+  },
+  {
+    "question": "What is CGPA?",
+    "answer": "CGPA is the Cumulative Grade Point Average calculated across completed semesters using the university's prescribed method.",
+    "category": "Results"
+  },
+  {
+    "question": "Does every university use the same SGPA formula?",
+    "answer": "No. The exact SGPA and CGPA calculation method depends on the university's academic regulations.",
+    "category": "Results"
+  },
+  {
+    "question": "How can I improve my SGPA?",
+    "answer": "Improving grades in higher-credit courses and clearing backlogs can have a significant effect, subject to the university's grading system.",
+    "category": "Results"
+  },
+  {
+    "question": "What is a grade card?",
+    "answer": "A grade card is an academic record showing courses, grades, credits, and related result information.",
+    "category": "Results"
+  },
+  {
+    "question": "Can I request a duplicate grade card?",
+    "answer": "Students can request a duplicate grade card through the university or examination department's prescribed process.",
+    "category": "Results"
+  },
+  {
+    "question": "What is result verification?",
+    "answer": "Result verification is a process through which a student can request confirmation that marks or result records were processed correctly.",
+    "category": "Results"
+  },
+  {
+    "question": "What is the difference between revaluation and verification?",
+    "answer": "Verification generally checks the result or totaling process, while revaluation may involve reassessment of an answer script where the university permits it.",
+    "category": "Results"
+  },
+  {
+    "question": "How can I pay college fees online?",
+    "answer": "Use the official student portal or authorized payment gateway provided by the institution.",
+    "category": "Fees"
+  },
+  {
+    "question": "Which payment methods are accepted for fees?",
+    "answer": "Accepted payment methods depend on the institution's payment portal and may include online banking, cards, or other supported methods.",
+    "category": "Fees"
+  },
+  {
+    "question": "How can I verify whether my fee payment succeeded?",
+    "answer": "Check the transaction status and fee receipt in the official student portal before attempting another payment.",
+    "category": "Fees"
+  },
+  {
+    "question": "What should I do if money was deducted but no fee receipt was generated?",
+    "answer": "Wait for the payment status to update and contact the accounts or portal support team if the transaction remains unresolved.",
+    "category": "Fees"
+  },
+  {
+    "question": "Can I pay fees in installments?",
+    "answer": "Installment facilities depend on the institution's fee policy and any approved payment plans.",
+    "category": "Fees"
+  },
+  {
+    "question": "Where can I find the fee structure?",
+    "answer": "The latest fee structure is normally published by the university or college on its official website or student portal.",
+    "category": "Fees"
+  },
+  {
+    "question": "Are examination fees separate from tuition fees?",
+    "answer": "They may be separate charges depending on the institution's fee structure.",
+    "category": "Fees"
+  },
+  {
+    "question": "Can I get a refund of college fees?",
+    "answer": "Refund eligibility depends on the institution's refund policy and the circumstances of the request.",
+    "category": "Fees"
+  },
+  {
+    "question": "How do I apply for a fee concession?",
+    "answer": "Fee concessions, if available, require an application through the designated college or university process with supporting documents.",
+    "category": "Fees"
+  },
+  {
+    "question": "How can I check scholarship application status?",
+    "answer": "Check the relevant scholarship portal or contact the scholarship or student welfare office.",
+    "category": "Scholarships"
+  },
+  {
+    "question": "What documents are commonly needed for scholarships?",
+    "answer": "Common documents may include academic records, identity documents, bank details, income or eligibility certificates, and other documents specified by the scholarship.",
+    "category": "Scholarships"
+  },
+  {
+    "question": "Can I apply for more than one scholarship?",
+    "answer": "Whether multiple scholarships can be held simultaneously depends on the rules of the scholarship providers and institution.",
+    "category": "Scholarships"
+  },
+  {
+    "question": "What happens if my scholarship is rejected?",
+    "answer": "Review the rejection reason and, where permitted, correct the issue or submit an appeal within the stated deadline.",
+    "category": "Scholarships"
+  },
+  {
+    "question": "Who handles scholarship verification?",
+    "answer": "Verification may be performed by the college, university, government department, or scholarship provider depending on the scheme.",
+    "category": "Scholarships"
+  },
+  {
+    "question": "How do I apply for hostel accommodation?",
+    "answer": "Submit the hostel application through the official portal or hostel office during the notified application period.",
+    "category": "Hostel"
+  },
+  {
+    "question": "How are hostel rooms allocated?",
+    "answer": "Room allocation follows the hostel's stated eligibility, availability, and allocation rules.",
+    "category": "Hostel"
+  },
+  {
+    "question": "Can I change my hostel room?",
+    "answer": "Room changes generally require approval from the hostel administration or warden and depend on availability.",
+    "category": "Hostel"
+  },
+  {
+    "question": "What are typical hostel entry timings?",
+    "answer": "Hostel entry and exit timings are specified in the official hostel rules and may differ by institution.",
+    "category": "Hostel"
+  },
+  {
+    "question": "Are visitors allowed in the hostel?",
+    "answer": "Visitor access is governed by hostel rules and may require registration or permission.",
+    "category": "Hostel"
+  },
+  {
+    "question": "How do I report a hostel disciplinary issue?",
+    "answer": "Report the issue to the warden, hostel administration, or designated grievance authority according to hostel procedures.",
+    "category": "Hostel"
+  },
+  {
+    "question": "How can I cancel hostel accommodation?",
+    "answer": "Hostel cancellation normally requires a formal request to the hostel office and settlement of applicable dues.",
+    "category": "Hostel"
+  },
+  {
+    "question": "Is hostel mess compulsory?",
+    "answer": "Mess arrangements and compulsory participation depend on the hostel's rules and fee structure.",
+    "category": "Hostel"
+  },
+  {
+    "question": "How do I borrow a library book?",
+    "answer": "Use your valid library membership or student ID and follow the library's borrowing procedure.",
+    "category": "Library"
+  },
+  {
+    "question": "How long can I keep a library book?",
+    "answer": "The borrowing period depends on the library category and institution's rules.",
+    "category": "Library"
+  },
+  {
+    "question": "Can I renew a library book?",
+    "answer": "Renewal may be allowed if the book has not been reserved and the library policy permits renewal.",
+    "category": "Library"
+  },
+  {
+    "question": "What happens if a library book is lost?",
+    "answer": "A lost book should be reported to the library, which will explain the applicable replacement or compensation procedure.",
+    "category": "Library"
+  },
+  {
+    "question": "Can I reserve a library book?",
+    "answer": "Some libraries provide book reservation facilities through their online catalog or library desk.",
+    "category": "Library"
+  },
+  {
+    "question": "Can I access digital library resources from home?",
+    "answer": "If remote access is provided, students can use their institutional credentials to access subscribed digital resources.",
+    "category": "Library"
+  },
+  {
+    "question": "Where can I find the library opening hours?",
+    "answer": "Library hours are usually published on the library website, notice board, or student portal.",
+    "category": "Library"
+  },
+  {
+    "question": "How do I get a library clearance certificate?",
+    "answer": "Apply through the library's clearance process after returning borrowed materials and settling outstanding dues.",
+    "category": "Library"
+  },
+  {
+    "question": "How do I log in to the student portal?",
+    "answer": "Use the credentials provided by the institution on the official student portal.",
+    "category": "IT Support"
+  },
+  {
+    "question": "What if I forget my student portal password?",
+    "answer": "Use the official password-reset facility or contact the institution's IT support team.",
+    "category": "IT Support"
+  },
+  {
+    "question": "What if my account is locked?",
+    "answer": "Contact IT support or use the official account recovery process to unlock the account.",
+    "category": "IT Support"
+  },
+  {
+    "question": "How do I change my portal password?",
+    "answer": "Use the account security or password-change option available in the student portal.",
+    "category": "IT Support"
+  },
+  {
+    "question": "What should I do if the portal shows incorrect personal information?",
+    "answer": "Report the discrepancy to the administration or student records office and follow the correction procedure.",
+    "category": "Administration"
+  },
+  {
+    "question": "How can I update my address?",
+    "answer": "Submit an address update through the student portal if supported, or contact student administration with the required documents.",
+    "category": "Administration"
+  },
+  {
+    "question": "How can I update my emergency contact?",
+    "answer": "Use the student profile facility if available or contact the appropriate student records office.",
+    "category": "Administration"
+  },
+  {
+    "question": "How do I apply for a student ID card?",
+    "answer": "Apply through the student services or administration office according to the institution's ID card process.",
+    "category": "Student Services"
+  },
+  {
+    "question": "What should I do if my ID card is damaged?",
+    "answer": "Submit the damaged card to the designated office and request a replacement according to the applicable procedure.",
+    "category": "Student Services"
+  },
+  {
+    "question": "How can I get a student enrollment certificate?",
+    "answer": "Request an enrollment certificate through the student portal or student administration office.",
+    "category": "Certificates"
+  },
+  {
+    "question": "How can I get a transcript?",
+    "answer": "Transcript requests are generally submitted through the examination or academic records office and may involve a processing fee.",
+    "category": "Certificates"
+  },
+  {
+    "question": "How can I get a provisional degree certificate?",
+    "answer": "Eligible graduates can request a provisional certificate through the university's prescribed certificate process.",
+    "category": "Certificates"
+  },
+  {
+    "question": "How can I get a degree certificate?",
+    "answer": "Degree certificates are issued according to the university's graduation and certificate procedures.",
+    "category": "Certificates"
+  },
+  {
+    "question": "How can I request a no-dues certificate?",
+    "answer": "Complete the required clearance from departments such as library, accounts, hostel, and administration, according to institutional procedure.",
+    "category": "Certificates"
+  },
+  {
+    "question": "How do I register for placement drives?",
+    "answer": "Eligible students generally register through the training and placement cell's official portal or process.",
+    "category": "Placements"
+  },
+  {
+    "question": "What is the eligibility criteria for placement drives?",
+    "answer": "Eligibility varies by recruiter and may include academic scores, backlog status, attendance, branch, skills, or other criteria.",
+    "category": "Placements"
+  },
+  {
+    "question": "Can students with backlogs participate in placements?",
+    "answer": "Some recruiters allow backlogs while others do not. Students should check the eligibility criteria for each drive.",
+    "category": "Placements"
+  },
+  {
+    "question": "How should I prepare a placement resume?",
+    "answer": "A placement resume should clearly present education, technical skills, projects, internships, achievements, and relevant experience in a concise format.",
+    "category": "Placements"
+  },
+  {
+    "question": "What happens during a technical interview?",
+    "answer": "Technical interviews commonly assess programming, computer science fundamentals, projects, problem solving, and role-specific knowledge.",
+    "category": "Placements"
+  },
+  {
+    "question": "What happens during an HR interview?",
+    "answer": "HR interviews may assess communication, motivation, teamwork, adaptability, career goals, and behavioral situations.",
+    "category": "Placements"
+  },
+  {
+    "question": "How can I find internship opportunities?",
+    "answer": "Check the training and placement cell, department notices, official career portals, and verified company opportunities.",
+    "category": "Internships"
+  },
+  {
+    "question": "Can I do an internship during the semester?",
+    "answer": "Internship arrangements depend on academic rules, attendance requirements, and approval from the department.",
+    "category": "Internships"
+  },
+  {
+    "question": "Do internships count for academic credit?",
+    "answer": "Some programs award academic credit for approved internships if the curriculum includes an internship component.",
+    "category": "Internships"
+  },
+  {
+    "question": "How do I submit an internship report?",
+    "answer": "Follow the department's prescribed format, submission deadline, and approval process for internship reports.",
+    "category": "Internships"
+  },
+  {
+    "question": "Where can I find my class schedule?",
+    "answer": "The latest class schedule is usually available through the department, student portal, or official notice board.",
+    "category": "Timetable"
+  },
+  {
+    "question": "What should I do if a class is canceled?",
+    "answer": "Follow the official communication from the faculty or department regarding the canceled class and any rescheduled session.",
+    "category": "Timetable"
+  },
+  {
+    "question": "Can the timetable change during the semester?",
+    "answer": "Yes, departments may update schedules when necessary. Students should rely on the latest official timetable.",
+    "category": "Timetable"
+  },
+  {
+    "question": "How do I report a timetable conflict?",
+    "answer": "Contact the department academic coordinator or timetable in-charge with the conflicting course details.",
+    "category": "Timetable"
+  },
+  {
+    "question": "How can I contact a faculty member?",
+    "answer": "Use official college email, the learning management system, department contact information, or scheduled office hours.",
+    "category": "Faculty"
+  },
+  {
+    "question": "What should I do if I have an academic doubt?",
+    "answer": "Ask the concerned faculty member during class, office hours, or through the official academic communication channel.",
+    "category": "Faculty"
+  },
+  {
+    "question": "How can I request a recommendation letter?",
+    "answer": "Contact an appropriate faculty member or authorized department representative and provide the purpose, deadline, and required details.",
+    "category": "Faculty"
+  },
+  {
+    "question": "How do I join a student club?",
+    "answer": "Follow the club's official recruitment or registration announcements and complete the required registration process.",
+    "category": "Clubs"
+  },
+  {
+    "question": "Can first-year students join clubs?",
+    "answer": "Students can generally participate in clubs if they meet the club's eligibility and registration requirements.",
+    "category": "Clubs"
+  },
+  {
+    "question": "How can I organize a college event?",
+    "answer": "Submit an event proposal through the student affairs office or relevant faculty coordinator according to institutional procedures.",
+    "category": "Clubs"
+  },
+  {
+    "question": "How do I book a classroom for a student event?",
+    "answer": "Classroom or venue booking generally requires approval from the designated administration or student activities office.",
+    "category": "Student Services"
+  },
+  {
+    "question": "How do I file a student grievance?",
+    "answer": "Submit the grievance through the official grievance portal, committee, department, or designated authority.",
+    "category": "Grievances"
+  },
+  {
+    "question": "Can I submit a grievance anonymously?",
+    "answer": "Anonymous grievance options depend on the institution's grievance policy and available reporting channels.",
+    "category": "Grievances"
+  },
+  {
+    "question": "How long does grievance resolution take?",
+    "answer": "Resolution time varies depending on the nature of the grievance and the institution's grievance procedure.",
+    "category": "Grievances"
+  },
+  {
+    "question": "Who handles ragging complaints?",
+    "answer": "Ragging complaints should be reported through the institution's official anti-ragging mechanism or designated authorities.",
+    "category": "Grievances"
+  },
+  {
+    "question": "Who handles discrimination or harassment complaints?",
+    "answer": "Such complaints should be directed to the institution's designated grievance or appropriate committee according to official policy.",
+    "category": "Grievances"
+  },
+  {
+    "question": "What is the college emergency contact number?",
+    "answer": "Use the emergency contacts published by the institution on its official website, campus notices, or student portal.",
+    "category": "Emergency"
+  },
+  {
+    "question": "Where is the campus medical facility?",
+    "answer": "Campus medical facility details and operating hours should be checked through official college information or the student services office.",
+    "category": "Emergency"
+  },
+  {
+    "question": "How can I report a lost item on campus?",
+    "answer": "Report lost property to campus security, the student services office, or the designated lost-and-found facility.",
+    "category": "Security"
+  },
+  {
+    "question": "How can I report a security concern?",
+    "answer": "Contact campus security or the designated institutional authority immediately using official reporting channels.",
+    "category": "Security"
+  },
+  {
+    "question": "How can I access campus Wi-Fi?",
+    "answer": "Connect using the institution's official Wi-Fi network and authenticate with the credentials or instructions provided by IT services.",
+    "category": "IT Support"
+  },
+  {
+    "question": "What if campus Wi-Fi is slow?",
+    "answer": "Check whether the issue affects multiple users and report the problem to IT support with the location and approximate time.",
+    "category": "IT Support"
+  },
+  {
+    "question": "How do I access the learning management system?",
+    "answer": "Use the LMS link provided by the institution and sign in using your official student credentials.",
+    "category": "IT Support"
+  },
+  {
+    "question": "What should I do if a course is missing from my LMS?",
+    "answer": "Contact the course faculty or LMS administrator and provide the course name and your student details.",
+    "category": "IT Support"
+  },
+  {
+    "question": "How do I submit an assignment online?",
+    "answer": "Open the relevant course in the LMS, select the assignment, upload the required file, and confirm submission before the deadline.",
+    "category": "Academic"
+  },
+  {
+    "question": "Can I resubmit an assignment?",
+    "answer": "Resubmission depends on the assignment settings and faculty policy. Check the LMS instructions or ask the course instructor.",
+    "category": "Academic"
+  },
+  {
+    "question": "What file formats are accepted for assignments?",
+    "answer": "Accepted formats are specified by the faculty or LMS assignment instructions.",
+    "category": "Academic"
+  },
+  {
+    "question": "What happens if I miss an assignment deadline?",
+    "answer": "Late submissions are governed by the faculty's policy and may be accepted with penalties or not accepted after the deadline.",
+    "category": "Academic"
+  },
+  {
+    "question": "How can I check my internal assessment marks?",
+    "answer": "Internal assessment marks may be published through the student portal or communicated by the concerned faculty or department.",
+    "category": "Results"
+  },
+  {
+    "question": "Can I dispute internal assessment marks?",
+    "answer": "If a student believes there is an error, they should contact the concerned faculty member or department through the prescribed process.",
+    "category": "Results"
+  },
+  {
+    "question": "How are internal assessment marks calculated?",
+    "answer": "The components and weightage of internal assessment depend on the course and university academic regulations.",
+    "category": "Results"
+  },
+  {
+    "question": "What is continuous assessment?",
+    "answer": "Continuous assessment evaluates student performance throughout the semester using components such as assignments, tests, practicals, attendance where applicable, and other approved activities.",
+    "category": "Academic"
+  },
+  {
+    "question": "What is a credit-based grading system?",
+    "answer": "It is an academic system in which courses carry credits and grades contribute to performance measures according to credit weighting.",
+    "category": "Academic"
+  },
+  {
+    "question": "Can I change my program or branch?",
+    "answer": "Program or branch changes are subject to university rules, eligibility, seat availability, and the approved change procedure.",
+    "category": "Academic"
+  },
+  {
+    "question": "Can I change my section?",
+    "answer": "Section changes are generally allowed only under specified conditions and require approval from the department.",
+    "category": "Academic"
+  },
+  {
+    "question": "How can I withdraw from a course?",
+    "answer": "Course withdrawal is possible only if permitted by the curriculum and within the notified withdrawal period.",
+    "category": "Academic"
+  },
+  {
+    "question": "What is an academic probation?",
+    "answer": "Academic probation is a status that may be assigned when a student's academic performance falls below specified institutional requirements.",
+    "category": "Academic"
+  },
+  {
+    "question": "How can I improve my academic performance?",
+    "answer": "Create a study schedule, prioritize high-credit and difficult subjects, attend classes regularly, practice past questions, and seek faculty support when needed.",
+    "category": "Academic"
+  },
+  {
+    "question": "Where can I find previous year question papers?",
+    "answer": "Previous papers may be available through the library, department, student portal, or other officially provided academic resources.",
+    "category": "Examination"
+  },
+  {
+    "question": "Are previous year question papers official study material?",
+    "answer": "They can be useful for preparation, but students should use the latest syllabus and official examination guidance as the primary reference.",
+    "category": "Examination"
+  },
+  {
+    "question": "How can I get a course syllabus?",
+    "answer": "The latest syllabus is usually published on the university website, department portal, or student academic system.",
+    "category": "Academic"
+  },
+  {
+    "question": "What if the syllabus changes?",
+    "answer": "Students should follow the syllabus applicable to their admission batch and the latest official academic notification.",
+    "category": "Academic"
+  },
+  {
+    "question": "How can I contact the accounts department?",
+    "answer": "Use the official contact details listed on the college website, student portal, or administration office.",
+    "category": "Administration"
+  },
+  {
+    "question": "How can I contact the examination department?",
+    "answer": "Use the official examination department contact details or visit the designated examination office during working hours.",
+    "category": "Administration"
+  },
+  {
+    "question": "How can I contact the hostel office?",
+    "answer": "Use the hostel office or warden contact details published by the institution.",
+    "category": "Hostel"
+  },
+  {
+    "question": "How can I contact the placement cell?",
+    "answer": "Use the official training and placement cell contact information provided by the college.",
+    "category": "Placements"
+  },
+  {
+    "question": "What should I do if I receive conflicting information from two sources?",
+    "answer": "Prefer the latest official notice, regulation, or communication from the responsible authority and confirm the information with the relevant office.",
+    "category": "General"
+  },
+  {
+    "question": "How should the FAQ assistant handle unknown questions?",
+    "answer": "The assistant should clearly say when the knowledge base does not contain the answer and direct the student to the appropriate official department instead of guessing.",
+    "category": "General"
+  },
+  {
+    "question": "How often should the FAQ knowledge base be updated?",
+    "answer": "The FAQ knowledge base should be updated whenever official regulations, schedules, fees, contacts, or procedures change.",
+    "category": "General"
+  },
+  {
+    "question": "Should the RAG assistant give exact deadlines?",
+    "answer": "It should give an exact deadline only when that deadline exists in the current verified knowledge base and should otherwise direct the student to the latest official notice.",
+    "category": "General"
+  },
+  {
+    "question": "Can students rely on the FAQ for important academic decisions?",
+    "answer": "The FAQ is an informational assistant. Important decisions should always be verified against the latest official university or college rules and notices.",
+    "category": "General"
+  }
+]
