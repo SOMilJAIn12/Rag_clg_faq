@@ -11,4 +11,4 @@ vectorstore = Chroma(
     embedding_function=embedding
 )
 vectorstore.add_documents(documents)
-print(f"Added {len(documents)} documents")
+print(f"Added {len(documents)} documents");
