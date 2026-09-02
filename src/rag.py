@@ -24,24 +24,3 @@ Student Question:
 
 Answer:
 """)
-print("Rag system is created")
-print("press 0 to exit")
-while True:
-    query = input("You: ")
-
-    if query == "0":
-        break
-
-    docs = retriever.invoke(query)
-    context = "\n\n".join(
-        [doc.page_content for doc in docs]
-    )
-
-    final_prompt = prompt.invoke({
-        "context": context,
-        "input": query
-    })
-
-    response = llm.invoke(final_prompt)
-
-    print(f"\nAI: {response.content}")
